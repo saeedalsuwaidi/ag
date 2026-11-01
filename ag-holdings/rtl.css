@@ -1,0 +1,2 @@
+/* WordPress loads RTL conventions through language_attributes and style.css. */
+body{direction:rtl}nav,.header-inner,.footer-top,.footer-bottom{direction:rtl}.article{text-align:right}.article table{direction:rtl}.article td,.article th{text-align:right}

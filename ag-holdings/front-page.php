@@ -1,0 +1,1 @@
+<?php get_header(); ?><main id="main"><?php if(have_posts() && get_option('show_on_front')==='page'){while(have_posts()){the_post();the_content();}}else{echo wp_kses_post(ag_home_content());} ?></main><?php get_footer(); ?>

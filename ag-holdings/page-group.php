@@ -1,0 +1,3 @@
+<?php
+/* Template Name: AG Our Companies */
+get_header(); ?><main id="main"><section class="inner-hero page-banner"><img class="page-banner-image" src="<?php echo esc_url(get_template_directory_uri().'/assets/our-companies-banner.jpg'); ?>" alt="<?php echo ag_is_ar()?'أفق المدينة':'City skyline'; ?>" width="2047" height="649" fetchpriority="high"><div class="wrap"><p class="eyebrow"><?php echo ag_is_ar()?'من الإمارات إلى العالم':'From the Emirates to the world'; ?></p><h1><?php echo ag_is_ar()?'شركاتنا':'Our Companies'; ?></h1></div></section><div class="directory-content"><?php while(have_posts()){the_post();the_content();} ?></div></main><?php get_footer(); ?>

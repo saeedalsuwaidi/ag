@@ -1,0 +1,186 @@
+{
+  "groups": [
+    {
+      "slug": "about",
+      "label": {
+        "en": "About Us",
+        "ar": "عنّا"
+      },
+      "children": [
+        [
+          "about",
+          "Group Overview",
+          "نبذة عن المجموعة"
+        ],
+        [
+          "history",
+          "Our History",
+          "لمحة تاريخية"
+        ],
+        [
+          "vision-mission-values",
+          "Vision, Mission & Values",
+          "الرؤية والرسالة والقيم"
+        ],
+        [
+          "chairmans-message",
+          "Chairman’s Message",
+          "كلمة رئيس مجلس الإدارة"
+        ],
+        [
+          "corporate-governance",
+          "Corporate Governance",
+          "الحوكمة المؤسسية"
+        ],
+        [
+          "board-of-directors",
+          "Board of Directors",
+          "مجلس الإدارة"
+        ],
+        [
+          "executive-management",
+          "Executive Management",
+          "الإدارة التنفيذية"
+        ]
+      ]
+    },
+    {
+      "slug": "group",
+      "label": {
+        "en": "Our Sectors",
+        "ar": "قطاعاتنا"
+      },
+      "children": [
+        [
+          "group",
+          "Sector Overview",
+          "لمحة عن قطاعاتنا"
+        ],
+        [
+          "investment-philosophy",
+          "Our Investment Philosophy",
+          "فلسفتنا الاستثمارية"
+        ],
+        [
+          "real-estate-sector",
+          "Real Estate",
+          "القطاع العقاري"
+        ],
+        [
+          "contracting-sector",
+          "Building & Contracting",
+          "البناء والمقاولات"
+        ],
+        [
+          "shipping-sector",
+          "Shipping & Marine",
+          "الشحن والأنشطة البحرية"
+        ],
+        [
+          "education-sector",
+          "Education",
+          "قطاع التعليم"
+        ],
+        [
+          "partnerships",
+          "Investment & Partnerships",
+          "الاستثمار والشراكات"
+        ]
+      ]
+    },
+    {
+      "slug": "news",
+      "label": {
+        "en": "Our News",
+        "ar": "أخبارنا"
+      },
+      "children": [
+        [
+          "news-events",
+          "News & Events",
+          "الأخبار والأحداث"
+        ],
+        [
+          "video-gallery",
+          "Video Gallery",
+          "معرض الفيديو"
+        ]
+      ]
+    },
+    {
+      "slug": "commitments",
+      "label": {
+        "en": "Our Commitments",
+        "ar": "التزاماتنا"
+      },
+      "children": [
+        [
+          "community-responsibility",
+          "Community Responsibility",
+          "المسؤولية المجتمعية"
+        ],
+        [
+          "sustainability",
+          "Sustainability",
+          "الاستدامة"
+        ]
+      ]
+    },
+    {
+      "slug": "careers",
+      "label": {
+        "en": "Careers",
+        "ar": "التوظيف"
+      },
+      "children": [
+        [
+          "careers-overview",
+          "Overview",
+          "نظرة عامة"
+        ],
+        [
+          "work-environment",
+          "Work Environment",
+          "بيئة العمل"
+        ],
+        [
+          "internship-program",
+          "Internship Program",
+          "برنامج التدريب"
+        ],
+        [
+          "job-opportunities",
+          "Job Opportunities",
+          "فرص العمل"
+        ],
+        [
+          "employee-portal",
+          "Employee Policies",
+          "سياسات الموظفين"
+        ]
+      ]
+    }
+  ],
+  "companies": [
+    [
+      "al-ghanem-real-estate",
+      "Al Ghanem Investment & Development",
+      "الغانم للاستثمار والتطوير"
+    ],
+    [
+      "al-ghanem-building-contracting",
+      "Al Ghanem Building Contracting",
+      "الغانم لمقاولات البناء"
+    ],
+    [
+      "emirates-navigation",
+      "EMIRATES SHIPPING",
+      "الإمارات للملاحة"
+    ],
+    [
+      "manar-al-sabeel",
+      "Manar Al Sabeel Quran Karim Keeping Centre",
+      "مركز منار السبيل لتحفيظ القرآن الكريم"
+    ]
+  ]
+}

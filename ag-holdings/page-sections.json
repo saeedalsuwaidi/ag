@@ -1,0 +1,218 @@
+{
+  "about": {
+    "group": "about",
+    "title": {
+      "en": "Group Overview",
+      "ar": "نبذة عن المجموعة"
+    },
+    "banner": "about-us-banner.jpg"
+  },
+  "history": {
+    "group": "about",
+    "title": {
+      "en": "Our History",
+      "ar": "لمحة تاريخية"
+    },
+    "banner": "about-us-banner.jpg"
+  },
+  "vision-mission-values": {
+    "group": "about",
+    "title": {
+      "en": "Vision, Mission & Values",
+      "ar": "الرؤية والرسالة والقيم"
+    },
+    "banner": "about-us-banner.jpg"
+  },
+  "chairmans-message": {
+    "group": "about",
+    "title": {
+      "en": "Chairman’s Message",
+      "ar": "كلمة رئيس مجلس الإدارة"
+    },
+    "banner": "about-us-banner.jpg"
+  },
+  "corporate-governance": {
+    "group": "about",
+    "title": {
+      "en": "Corporate Governance",
+      "ar": "الحوكمة المؤسسية"
+    },
+    "banner": "about-us-banner.jpg"
+  },
+  "board-of-directors": {
+    "group": "about",
+    "title": {
+      "en": "Board of Directors",
+      "ar": "مجلس الإدارة"
+    },
+    "banner": "about-us-banner.jpg"
+  },
+  "executive-management": {
+    "group": "about",
+    "title": {
+      "en": "Executive Management",
+      "ar": "الإدارة التنفيذية"
+    },
+    "banner": "about-us-banner.jpg"
+  },
+  "group": {
+    "group": "group",
+    "title": {
+      "en": "Sector Overview",
+      "ar": "لمحة عن قطاعاتنا"
+    },
+    "banner": "about-us-banner.jpg"
+  },
+  "investment-philosophy": {
+    "group": "group",
+    "title": {
+      "en": "Our Investment Philosophy",
+      "ar": "فلسفتنا الاستثمارية"
+    },
+    "banner": "about-us-banner.jpg"
+  },
+  "real-estate-sector": {
+    "group": "group",
+    "title": {
+      "en": "Real Estate",
+      "ar": "القطاع العقاري"
+    },
+    "banner": "about-us-banner.jpg"
+  },
+  "contracting-sector": {
+    "group": "group",
+    "title": {
+      "en": "Building & Contracting",
+      "ar": "البناء والمقاولات"
+    },
+    "banner": "about-us-banner.jpg"
+  },
+  "shipping-sector": {
+    "group": "group",
+    "title": {
+      "en": "Shipping & Marine",
+      "ar": "الشحن والأنشطة البحرية"
+    },
+    "banner": "about-us-banner.jpg"
+  },
+  "education-sector": {
+    "group": "group",
+    "title": {
+      "en": "Education & Community",
+      "ar": "التعليم وخدمة المجتمع"
+    },
+    "banner": "about-us-banner.jpg"
+  },
+  "news": {
+    "group": "news",
+    "title": {
+      "en": "Our News",
+      "ar": "أخبارنا"
+    },
+    "banner": "about-us-banner.jpg"
+  },
+  "news-events": {
+    "group": "news",
+    "title": {
+      "en": "News & Events",
+      "ar": "الأخبار والأحداث"
+    },
+    "banner": "about-us-banner.jpg"
+  },
+  "video-gallery": {
+    "group": "news",
+    "title": {
+      "en": "Video Gallery",
+      "ar": "معرض الفيديو"
+    },
+    "banner": "about-us-banner.jpg"
+  },
+  "commitments": {
+    "group": "commitments",
+    "title": {
+      "en": "Our Commitments",
+      "ar": "التزاماتنا"
+    },
+    "banner": "commitments-teamwork.jpg"
+  },
+  "community-responsibility": {
+    "group": "commitments",
+    "title": {
+      "en": "Community Responsibility",
+      "ar": "المسؤولية المجتمعية"
+    },
+    "banner": "commitments-teamwork.jpg"
+  },
+  "sustainability": {
+    "group": "commitments",
+    "title": {
+      "en": "Sustainability",
+      "ar": "الاستدامة"
+    },
+    "banner": "commitments-teamwork.jpg"
+  },
+  "careers": {
+    "group": "careers",
+    "title": {
+      "en": "Careers",
+      "ar": "التوظيف"
+    },
+    "banner": "about-us-banner.jpg"
+  },
+  "careers-overview": {
+    "group": "careers",
+    "title": {
+      "en": "Overview",
+      "ar": "نظرة عامة"
+    },
+    "banner": "about-us-banner.jpg"
+  },
+  "work-environment": {
+    "group": "careers",
+    "title": {
+      "en": "Work Environment",
+      "ar": "بيئة العمل"
+    },
+    "banner": "about-us-banner.jpg"
+  },
+  "internship-program": {
+    "group": "careers",
+    "title": {
+      "en": "Internship Program",
+      "ar": "برنامج التدريب"
+    },
+    "banner": "about-us-banner.jpg"
+  },
+  "job-opportunities": {
+    "group": "careers",
+    "title": {
+      "en": "Job Opportunities",
+      "ar": "فرص العمل"
+    },
+    "banner": "about-us-banner.jpg"
+  },
+  "partnerships": {
+    "group": "group",
+    "title": {
+      "ar": "الاستثمار والشراكات",
+      "en": "Investment & Partnerships"
+    },
+    "banner": "about-us-banner.jpg"
+  },
+  "employee-portal": {
+    "group": "careers",
+    "title": {
+      "ar": "سياسات العمل — الموظفون",
+      "en": "Workplace Policies — Employees"
+    },
+    "banner": "about-us-banner.jpg"
+  },
+  "privacy": {
+    "group": "about",
+    "title": {
+      "ar": "خصوصية الطلبات",
+      "en": "Enquiry Privacy"
+    },
+    "banner": "about-us-banner.jpg"
+  }
+}
